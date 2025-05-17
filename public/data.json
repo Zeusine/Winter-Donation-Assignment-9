@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "Winter Clothing Donation for Northern Bangladesh",
+      "image": "https://media.istockphoto.com/id/530930529/photo/little-girl-trying-on-coat-at-winter-clothing-donation-drive.jpg?s=612x612&w=0&k=20&c=bFskyDKmdlt2JLs7uZ6m2rss4VZRkijhdkUs_CFVn-s=",
+      "description": "Help provide winter clothing to families in need in Northern Bangladesh, where the cold weather affects many vulnerable communities.",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 2,
+      "title": "Food Aid for Southern Bangladesh",
+      "image": "https://thumbs.dreamstime.com/b/hands-hold-box-filled-warm-knitted-clothes-community-sharing-ready-winter-charity-donation-people-giving-helping-hands-349902319.jpg",
+      "description": "Donate food to families struggling to feed themselves during the harsh winter season in the southern part of Bangladesh.",
+      "division": "Khulna"
+    },
+    {
+      "id": 3,
+      "title": "Clothing and Warmth for Eastern Bangladesh",
+      "image": "https://media.istockphoto.com/id/485408267/photo/volunteers-accepting-donations-at-charity-winter-clothing-drive.jpg?s=612x612&w=0&k=20&c=nLwQXDKIyV_Nz4syaLkUuOkc9ywVVH7oVtBhaC9kklA=",
+      "description": "Donate winter clothing to people in Eastern Bangladesh, particularly in the Chittagong Hill Tracts, where the weather is colder and harsh.",
+      "division": "Chattogram"
+    },
+    {
+      "id": 4,
+      "title": "Winter Essentials for Western Bangladesh",
+      "image": "https://needyfoundation.org/wp-content/uploads/2023/12/Distribution-of-winter-clothing-2023-1.jpg",
+      "description": "Provide essential winter supplies like blankets, jackets, and scarves to the people in Western Bangladesh who are struggling with the cold.",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 5,
+      "title": "Support for Coastal Communities in Bangladesh",
+      "image": "https://thumbs.dreamstime.com/b/winter-clothing-heap-cold-season-donation-winter-clothing-heap-cold-season-donation-created-generative-ai-ai-294721804.jpg",
+      "description": "Help the coastal communities in Bangladesh by donating warm clothing, food, and medical supplies during the winter season.",
+      "division": "Barishal"
+    },
+    {
+      "id": 6,
+      "title": "Medical Aid for Winter Struggles in Northern Bangladesh",
+      "image": "https://helpandknowledge.com/images/programs/1619002959__.__Blanket.jpg",
+      "description": "Provide medical aid and essential supplies to people in the northern region, where winter can cause severe health risks for the vulnerable.",
+      "division": "Rangpur"
+    },
+    {
+      "id": 7,
+      "title": "Winter Relief for Urban Slums in Dhaka",
+      "image": "https://ankurintl.org/wp-content/uploads/2019/11/Winter-1.png",
+      "description": "Provide winter relief items such as clothing, blankets, and food to the urban slums in Dhaka, where many people live in poverty and are affected by the cold.",
+      "division": "Dhaka"
+    },
+    {
+      "id": 8,
+      "title": "Blankets for the People of Sylhet",
+      "image": "https://thumbs.dreamstime.com/b/girl-holding-donation-box-warm-winter-clothes-137370221.jpg",
+      "description": "Help provide blankets to the elderly and homeless in Sylhet, where the winter weather can be particularly severe.",
+      "division": "Sylhet"
+    },
+    {
+      "id": 9,
+      "title": "Warmth for Children in Barishal Division",
+      "image": "https://thumbs.dreamstime.com/b/description-image-captures-essence-generosity-kindness-as-pair-hands-belonging-to-volunteer-hold-vibrant-376010983.jpg",
+      "description": "Donate winter clothing for children in Barishal, where winter can be especially tough for young children without proper clothing.",
+      "division": "Barishal"
+    },
+    {
+      "id": 10,
+      "title": "Emergency Relief for Coastal Bangladesh",
+      "image": "https://media.istockphoto.com/id/1396160859/photo/baby-and-child-clothes-toys-in-box-second-hand-apparel-idea-circular-fashion-donation-charity.jpg?s=612x612&w=0&k=20&c=cjKWIeNfmEPVdQUBABIWSdGAvm5SUoEdQYB02XOI35c=",
+      "description": "Provide emergency relief supplies like jackets, blankets, and food for people in coastal regions of Bangladesh, where winter conditions worsen their lives.",
+      "division": "Khulna"
+    }
+  ]
